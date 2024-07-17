@@ -338,10 +338,13 @@ footer{
             border-radius: 5px;
             }
         .sectionInterna{
-            width: 920px;
+            width: 840px;
         }    
         .Pfooter{
            width: 840px;
+        }
+        .foter{
+            width: 840px;
         }
         .im-f{
             width: 430px;
@@ -359,3 +362,139 @@ footer{
             background-color: #1E172F; 
         }
         }
+    @media screen and (min-width:768px) {
+        body{
+            width: 920px;
+        }
+        .parte1{
+            width: 850px;
+        }
+        .section1{
+            width: 850px;
+        }
+        #img1{
+           position: relative;
+           left: 100px;
+        }
+        #parte3{
+            position: relative;
+            left: 20px;
+            height: 400px;
+            width: 400px;
+        }
+        .section2{
+            width: 850px;
+            margin: -25px 0px 0px 0px;
+        }
+        #text5{
+            font-size: 13px;
+            width: 330px;
+        }
+        .lis{
+            position: relative;
+            left: 30px;
+            margin: 5px;
+            width: 300px;
+        }
+        .section3{
+            width: 850px;
+        }
+        .divSection3{
+            background-color: #FFFFFF;
+            margin-right: 10px;
+            width: 285px;
+            border-radius: 5px;
+            }
+        .sectionInterna{
+            width: 840px;
+        }    
+        .Pfooter{
+           width: 840px;
+        }
+        .foter{
+            width: 840px;
+        }
+        .im-f{
+            width: 430px;
+            margin: 10px;
+        }
+        #tex2 {
+            width: 290px;
+            font-size: 25px;
+        }
+        .section3{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+            background-color: #1E172F; 
+        }
+    }
+    @media screen and (min-width:480px) {
+        body{
+            width: 920px;
+        }
+        .parte1{
+            width: 850px;
+        }
+        .section1{
+            width: 850px;
+        }
+        #img1{
+           position: relative;
+           left: 100px;
+        }
+        #parte3{
+            position: relative;
+            left: 20px;
+            height: 400px;
+            width: 400px;
+        }
+        .section2{
+            width: 850px;
+            margin: -25px 0px 0px 0px;
+        }
+        #text5{
+            font-size: 13px;
+            width: 330px;
+        }
+        .lis{
+            position: relative;
+            left: 30px;
+            margin: 5px;
+            width: 300px;
+        }
+        .section3{
+            width: 850px;
+        }
+        .divSection3{
+            background-color: #FFFFFF;
+            margin-right: 10px;
+            width: 285px;
+            border-radius: 5px;
+            }
+        .sectionInterna{
+            width: 840px;
+        }    
+        .Pfooter{
+           width: 840px;
+        }
+        .foter{
+            width: 840px;
+        }
+        .im-f{
+            width: 430px;
+            margin: 10px;
+        }
+        #tex2 {
+            width: 290px;
+            font-size: 25px;
+        }
+        .section3{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+            background-color: #1E172F; 
+        }
+    }
