@@ -258,9 +258,8 @@ footer{
     border-radius: 50%;
 }
   .icon{
-    margin: 20px;
-    height: 500px;
-    width: 200px;
+    height: 40px;
+    width: 40px;
     
 }
 @media screen and (max-width: 1279px){
